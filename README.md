@@ -1,7 +1,9 @@
 EUR/USD Exchange Rate Prediction Using Machine Learning
 
 Abstract— This research work explored and analyzed the use of machine learning technique such as linear regression on EUR/USD exchange rates in the global forex market to forecast the future movement and compare between the daily and hourly data prediction. For the reason of comparison, linear regression has been applied on both hourly and daily almost equivalent data sets of EUR/USD exchange rates and showed differentiation of the results. It has been observed that the percentage of accuracy of daily data prediction is greater than hourly data prediction at the testing stage.
+
 Keywords—foreign exchange rate, EUR/USD, forex market, machine learning, linear regression.
+
 Introduction 
 Machine learning techniques are massive famous and widely used in the financial market. Foreign exchange (FX, forex or currency market) is also a large part of the financial market estimated with daily trade volume almost $5 trillion. The factors of price movement in the forex market have interacted in a complex relation. That’s why forex market prediction is ponderous. Predicting financial market is crucial for trader, investigators, economists, and analysts. Day by day, prediction methods are being developed for getting more accuracy. This paper has been considered as applying machine learning techniques in the currency market. EUR/USD is the most actively traded currency pair in the FX market. In this research work, we predict EUR/USD data series in different time frame by using the regression technique. Regression technique is generally used in linear data set, but in the nonlinear data set, it is used rarely [1]. This technique is applied in both hour and day time frame for accomplishing prediction of EUR/USD exchange rate and showing the accuracy and error of the prediction.
 Literature Review
