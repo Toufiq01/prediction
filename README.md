@@ -79,11 +79,8 @@ Date and Time(GMT)	Real Price      	Predicted Price 	Percentage Error
 
 
 
-Fig. 1.    EUR/USD exchange movement and forecast for one hour time frame
-
- 
-
-Fig. 2:     EUR/USD exchange movement and forecast for one day time frame
+Fig. 1. EUR/USD exchange movement and forecast for one hour time frame and Fig. 2. EUR/USD exchange movement and forecast for one day time frame
+are here: https://github.com/Toufiq01/prediction/issues/2
      
  Table 3 explores the comparison between one-hour time frame result and daily time frame result respectively along with the calculation of MAE (Mean Absolute Error), MSE (Mean Squared Error), RMSE (Root Mean Squared Error) and accuracy. This experiment has been accomplished by self-written Python code.
 
