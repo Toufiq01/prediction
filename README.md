@@ -37,33 +37,42 @@ Linear regression has been applied on the EUR/USD exchange rate and we got clear
 
 
 	ONE HOUR BASE PRICE
-Date and Time(GMT)	Real Price	Predicted Price	Percentage Error
-08.12.2018 00:00:00.000	1.13758	1.136094	0.001306282
-08.12.2018 01:00:00.000	1.13758	1.136422	0.00101795
-08.12.2018 02:00:00.000	1.13758	1.136317	0.001110252
-08.12.2018 03:00:00.000	1.13758	1.136448	0.000995095
-08.12.2018 04:00:00.000	1.13758	1.136108	0.001293975
-08.12.2018 05:00:00.000	1.13758	1.135766	0.001594613
-08.12.2018 06:00:00.000	1.13758	1.135702	0.001650873
+Date and Time(GMT)	 Real Price	Predicted Price	Percentage Error
 
+08.12.2018 00:00:00.000	 1.13758	1.136094	0.001306282
 
+08.12.2018 01:00:00.000	 1.13758	1.136422	0.00101795
 
+08.12.2018 02:00:00.000	 1.13758	1.136317	0.001110252
 
+08.12.2018 03:00:00.000	 1.13758	1.136448	0.000995095
 
+08.12.2018 04:00:00.000	 1.13758	1.136108	0.001293975
 
+08.12.2018 05:00:00.000	 1.13758	1.135766	0.001594613
+
+08.12.2018 06:00:00.000	 1.13758	1.135702	0.001650873
 
 
 
 
 	DAILY BASIS PRICE
-Date and Time(GMT)	Real Price	Predicted Price	Percentage Error
+Date and Time(GMT)	Real Price      	Predicted Price 	Percentage Error
+
 14.12.2018 22:00:00.000	1.13073	1.144793	0.012437098
+
 15.12.2018 22:00:00.000	1.13073	1.146939	0.014334987
+
 16.12.2018 22:00:00.000	1.13048	1.148891	0.016286002
+
 17.12.2018 22:00:00.000	1.13479	1.145834	0.009732197
+
 18.12.2018 22:00:00.000	1.13619	1.140734	0.003999331
+
 19.12.2018 22:00:00.000	1.13784	1.140398	0.002248119
+
 20.12.2018 22:00:00.000	1.14468	1.140026	0.004065765
+
 
 
       Fig. 1, and Fig. 2, show the foresight in the different time frame. In Fig. 1, data and prediction are based on hourly time series and Fig.  2 shows daily basis graph. Analysis displayed that daily time series graph is sleeker than the hourly time series graph and also in the sector of accuracy, the daily time frame is ahead. But error finding analysis is different such as daily time series contain more error.
